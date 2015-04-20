@@ -5,4 +5,4 @@ The **CodeBook.md** includes detailed description of parameters in R script
 
 The **run_analysis.R** includes all the scripts for requirements in the assignment.
 
-The **tidy_data.txt** is the result of the R script, and a tidy new dataset.
+The **tidy_data.txt** is the result of the R script, and a tidy new dataset.Since it's a big text, you will have to **"view the full file"**
