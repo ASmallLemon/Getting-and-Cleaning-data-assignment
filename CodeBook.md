@@ -9,7 +9,7 @@ and name the data based on file name,such as xtrain
 ##Part 1 - Merges the training and the test sets to create one data set.
 1.Use rbind to merge x values in train and test, and label colnames with feature values  
 2.Use rbind to merge y values in train and test, and lable colnames as activity
-3.Use rbind to merge subject values in train and test, and lable colnames as subject
+3.Use rbind to merge subject values in train and test, and lable colnames as subject  
 4.Use cbind to merge all the binded x,y,subject values into a dataset
 
 ##Part 2 - Extracts only the measurements on the mean and standard deviation for each measurement.
